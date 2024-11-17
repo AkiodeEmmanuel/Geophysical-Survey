@@ -5,10 +5,11 @@
 The Geophysical Survey at Nkong Field, Nigeria, was conducted to assess the subsurface features and geological properties of the seabed in preparation for future operations. The survey involved the use of geophysical tools to collect data on the seabed and subsurface conditions, ensuring a comprehensive understanding of the area.
 
 ## Project Details
-- **Date:** September 2023
+- **Date:** September 2023/2 Weeks
 - **Role:** Data Processor
 - **Client:** NK70
 - **Vessel:** Batoil Beagle One
+- **Project Location**: N70 and Mobil Field
 
 ## Responsibilities
 -  Ensured the proper operation and configuration of survey equipment, including **EIVA NaviPac**, **Hypack 2018**, **C-Nav DGPS**, and **TSS Meridian Gyro**, to facilitate accurate data collection during the survey.
