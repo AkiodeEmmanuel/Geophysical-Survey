@@ -1,5 +1,4 @@
-# Geophysical-Survey
-# Geophysical Survey: Nkong Field, Nigeria
+# Geophysical Survey of Nkong Field, Nigeria
 
 ## Project Overview
 The Geophysical Survey at Nkong Field, Nigeria, was conducted to assess the subsurface features and geological properties of the seabed in preparation for future operations. The survey involved the use of geophysical tools to collect data on the seabed and subsurface conditions, ensuring a comprehensive understanding of the area.
